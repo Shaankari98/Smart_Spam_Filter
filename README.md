@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Spam Email Classification System
 
 A production-grade machine learning system designed to robustly classify emails as "Spam" or "Ham" (legitimate). This project features a modular pipeline architecture for training and inference, integrated with a modern Streamlit user interface for easy interaction.
@@ -100,6 +100,5 @@ The pipeline automatically evaluates models using 5-fold cross-validation. Metri
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-=======
-# Smart_Spam_Filter
->>>>>>> df9e2242d2dd758cf2faf50e70680a7808f4d8a2
+
+
